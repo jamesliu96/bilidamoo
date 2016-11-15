@@ -1,0 +1,17 @@
+{
+  "name": "bilidamoo",
+  "version": "1.0.0",
+  "description": "A simple complete display client for bilibili live chatroom.",
+  "main": "bilidamoo.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "node-notifier": "^4.6.1",
+    "socket.io": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Liu <j@jamesliu.info>",
+  "license": "MIT"
+}
