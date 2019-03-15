@@ -7,8 +7,8 @@ var path = require('path');
 
 var Socket = require('./socket');
 
-const HOST = "58.220.29.84";
-const PORT = 788;
+const HOST = "broadcastlv.chat.bilibili.com";
+const PORT = 2245;
 
 const CID = parseInt(process.argv[2]);
 
